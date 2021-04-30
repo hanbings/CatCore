@@ -1,0 +1,17 @@
+allprojects {
+    group 'io.hanbings'
+    version '1.0'
+
+    task cleanBuild {
+        doFirst {
+            project.file("build/libs").deleteDir()
+        }
+    }
+}
+
+task collect(type: Copy) {
+    destinationDir = file('build/libs')
+    subprojects.each { p ->
+        from p.file('build/libs')
+    }
+}

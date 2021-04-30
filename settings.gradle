@@ -1,0 +1,10 @@
+rootProject.name = 'CatCore'
+include 'catcore-core'
+include 'catcore-core-api'
+include 'catcore-database'
+include 'catcore-http'
+include 'catcore-websocket'
+include 'catcore-thread'
+include 'catcore-extra-api'
+include 'catcore-extra'
+
