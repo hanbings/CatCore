@@ -1,4 +1,4 @@
-![CatCore](https://picture.hanbings.com/2021/05/01/95624cecb8944.png)
+![CatCore](https://picture.hanbings.com/2021/06/02/88fc702c3905e.png)
 
 **特别说明：本项目Logo/吉祥物其中左侧画像由画师 [阿印](https://space.bilibili.com/107790712)（ Bilibili用户名：阿印不想动 https://space.bilibili.com/107790712 ） 绘制，画像版权归原作者所有，其中右侧所使用的字体为商用需授权字体Snap ITC Regular，字体版权归字体厂商所有**  
 **此Logo/吉祥物不在本项目开源协议范围内并自动追加此规则至开源协议之中，若您对此项目二次开发或以其他形式进行商用本项目请去除此Logo/吉祥物 <br>**
